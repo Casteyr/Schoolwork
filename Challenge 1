@@ -13,4 +13,4 @@ x = 8
 string = f'-{x}-'
 
 cost = 0.75
-print(f'it costs ${cost:0.2f}')
+//print(f'it costs ${cost:0.2f}')
